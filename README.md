@@ -14,6 +14,12 @@ This is a simple nodejs application that collects drug information with FDA API'
 [To be added soon]
 
 
+##Examples:
+![](https://github.com/rshnn/RxLethality/blob/master/screenshots/motrin_1.png?raw=true "Motrin")
+
+
+
+
 ##Authors
 Roshan Patel, 
 Jeff Kang
