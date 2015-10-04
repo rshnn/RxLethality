@@ -15,5 +15,5 @@ This is a simple nodejs application that collects drug information with FDA API'
 
 
 ##Authors
-Roshan Patel
+Roshan Patel, 
 Jeff Kang
