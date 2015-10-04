@@ -1,0 +1,11 @@
+include layout
+	h1 RxLethality
+
+	div.container
+		h2 		Learn morbid facts about your favorite drugs. 
+
+	form(method = "post", action = "/searching")
+		p Enter the name of a pharmaceutical: 
+			input(type = "text", name = "drug")
+		p
+			input(type = "submit", value = "Submit")
