@@ -1,36 +1,19 @@
-Node.js Bootstrap Starter Template
+RxLethality
 ===
+HACKRUF2015
 
-A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
+This is a simple nodejs application that collects drug informtion with FDA API's and outputs some scary information.
 
 ##Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
 - Next, run the app by entering: node app
-- Browse to http://localhost:3000
+- Browse to http://localhost:3000/searchinit
 
 ##Demo:
-http://nodebootstrapper.herokuapp.com
+[To be added soon]
 
-##Contents:
 
-layout.jade
-header.jade
-footer.jade
-index.jade
-
-##Editing Pages:
-
-Edit views/index.jade to add your content. The default contents include:
-
-```
-extends layout
-
-block content
-	div.container
-		h1 Program Name
-		p Hello World
-```
-
-##Author
-Kory Becker http://www.primaryobjects.com/kory-becker.aspx
+##Authors
+Roshan Patel
+Jeff Kang
