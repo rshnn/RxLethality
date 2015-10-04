@@ -2,7 +2,7 @@ RxLethality
 ===
 HACKRUF2015
 
-This is a simple nodejs application that collects drug information with FDA API's and outputs some scary information.
+This is a simple web application that collects drug information with FDA API's and outputs some scary information.
 
 ##Usage
 - Clone repository.
