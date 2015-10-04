@@ -16,7 +16,7 @@ This is a simple nodejs application that collects drug information with FDA API'
 
 ##Examples:
 ![](https://github.com/rshnn/RxLethality/blob/master/screenshots/motrin_1.png?raw=true "Motrin")
-
+![](https://github.com/rshnn/RxLethality/blob/master/screenshots/motrin_2.png?raw=true "Motrin")
 
 
 
